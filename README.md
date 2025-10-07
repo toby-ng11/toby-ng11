@@ -1,16 +1,15 @@
-## Hi there 👋
+**Hey there! I'm a tech tinkerer who loves:**
 
-<!--
-**toby-ng11/toby-ng11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ Experimenting with new ideas
+- 💻 Writing code that actually works (most of the time)
+- 🎶 Listening to indie folk tunes (Bon Iver is my favourite artist).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**When not in front of a screen, I’m probably:**
+
+- 🛠️ Building something just for fun
+- 🌌 Daydreaming about the next cool project
+- 🎨 Getting creative in my own weird ways
+
+**Life motto: Keep learning 📚, stay curious 🔍, and sprinkle a little fun everywhere! 🎈**
